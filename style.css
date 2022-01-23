@@ -1,0 +1,28 @@
+.title{
+  background:grey;
+  text-align: center;
+  height: 30px;
+}
+.corpo{
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 0;
+  background-color: DimGrey;
+}
+.fields{
+  text-align:left;
+  width: 340px;
+  height: 120px;
+  padding: 10px;
+  background-color: grey;
+  border-radius: 5px;
+  margin: auto;
+  display: block;
+}
+.input{
+  width: 300px;
+}
+.botao{
+  margin: auto;
+  display: block;
+}
